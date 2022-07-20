@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_barcode_input_s.9.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\barcode_input_s.9.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_barcode_btn_n.9.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\barcode_btn_n.9.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_launcher_icon.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_capture.xml.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_barcode_input.xml.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\barcode_input.xml"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_lay_barcode_result.xml.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\layout\\lay_barcode_result.xml"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_capture_multi.xml.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\layout\\capture_multi.xml"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_launcher_icon.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml_preferences.xml.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_barcode_color_et.xml.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\color\\barcode_color_et.xml"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_barcode_btn_s.9.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\barcode_btn_s.9.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_launcher_icon.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_beep.ogg.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_barcode_input_n.9.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\barcode_input_n.9.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_btn_del.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\btn_del.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_btn_barcode_add.xml.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_barcode_add.xml"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_capture_single.xml.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\layout\\capture_single.xml"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_launcher_icon.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_btn_close.png.flat",
+        "source": "D:\\DeveloperTools\\android\\sample\\QRCodeReaderSample\\Zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\btn_close.png"
+    }
+]

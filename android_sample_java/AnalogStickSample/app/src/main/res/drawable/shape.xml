@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 여기서 bg와 in의 사이즈를 정해주면 됨 -->
+    <item android:drawable="@drawable/shape_bg"
+        android:top="12dp"
+        android:bottom="12dp"
+        android:left="12dp"
+        android:right="12dp"/>
+    <item
+        android:drawable="@drawable/shape_out"
+        android:top="52dp"
+        android:bottom="52dp"
+        android:left="52dp"
+        android:right="52dp">
+    </item>
+</layer-list>

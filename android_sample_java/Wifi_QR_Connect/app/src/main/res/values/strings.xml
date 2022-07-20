@@ -1,0 +1,28 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Wifi Direct Connect</string>
+
+    <string name="action_refresh_wifi_list">Wi-Fi 목록 갱신</string>
+
+
+    <string name="msg_connected_to_wifi">연결되었습니다.</string>
+    <string name="msg_connect_to_wifi">%s에 연결하시겠습니까?</string>
+    <string name="msg_cannot_connect_to_wifi">연결할 수 없습니다.</string>
+    <string name="msg_cannot_delete_wifi">삭제할 수 없습니다.</string>
+
+    <string name="action_cancel">취소</string>
+    <string name="action_connect_to_wifi">연결</string>
+    <string name="action_ok">확인</string>
+    <string name="action_delete_wifi">지우기</string>
+    <string name="action_show_password">비밀번호 표시</string>
+
+    <string name="hint_wifi_password">와이파이 비밀번호</string>
+
+    <string name="ap_security_open">개방 (비밀번호 필요 없음)</string>
+    <string name="ap_status_available">보안수준: %s</string>
+    <string name="ap_status_not_in_range">범위 내에 없음</string>
+    <string name="ap_status_failed">실패</string>
+    <string name="ap_status_saved">저장됨, 보안수준: %s</string>
+    <string name="ap_status_connected">연결됨</string>
+
+</resources>

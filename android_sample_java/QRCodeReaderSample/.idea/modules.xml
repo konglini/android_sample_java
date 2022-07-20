@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QRCodeReaderSample.iml" filepath="$PROJECT_DIR$/QRCodeReaderSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zxing/QRCodeReaderSample.Zxing.iml" filepath="$PROJECT_DIR$/.idea/modules/Zxing/QRCodeReaderSample.Zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QRCodeReaderSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QRCodeReaderSample.app.iml" />
+    </modules>
+  </component>
+</project>

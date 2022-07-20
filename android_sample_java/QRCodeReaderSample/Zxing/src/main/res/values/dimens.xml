@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2008 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ -->
+<resources>
+  <dimen name="standard_padding">8dip</dimen>
+  <dimen name="half_padding">4dip</dimen>
+
+  <!-- 사각영역 설명 메시지 -->
+  <dimen name="status_view_height">60dp</dimen>
+  <dimen name="status_view_top_margin">61dp</dimen>
+
+  <!-- 사각영역 크기 지정 세팅 값 -->
+  <dimen name="framing_rect_left">47dp</dimen>
+  <dimen name="framing_rect_top_s">186dp</dimen>
+  <dimen name="framing_rect_top_m">100dp</dimen>
+  <dimen name="framing_rect_right">313dp</dimen>
+  <dimen name="framing_rect_bottom">452dp</dimen>
+  <!--<dimen name="framing_rect_left">25dp</dimen>-->
+  <!--<dimen name="framing_rect_top">121dp</dimen>-->
+  <!--<dimen name="framing_rect_right">335dp</dimen>-->
+  <!--<dimen name="framing_rect_bottom">431dp</dimen>-->
+
+  <!-- input bar dimens-->
+  <dimen name="barcode_height">38dp</dimen>
+  <dimen name="barcode_text_size">14sp</dimen>
+
+</resources>

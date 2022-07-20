@@ -1,0 +1,28 @@
+apply plugin: 'com.android.library'
+
+android {
+    signingConfigs {
+    }
+    compileSdkVersion 23
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+//        applicationId "com.google.zxing.client.android"
+        minSdkVersion 15
+        targetSdkVersion 22
+    }
+    buildTypes {
+        debug {
+            minifyEnabled false
+            debuggable true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        release {
+            minifyEnabled false
+            debuggable false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+}
